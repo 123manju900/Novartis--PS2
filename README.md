@@ -156,7 +156,7 @@ Feature importance is visualized using XGBoost's built-in plotting functions.
 SHAP (SHapley Additive exPlanations) values are computed to explain the model's predictions.
 ![image alt](https://github.com/123manju900/Novartis--PS2/blob/22118b531a5010613ff6cc2d5892e75fe9b512e7/image/shap_summary_plot.png)
 
-### **5.3 Actual vs Predicted Plot**
+### **7.3 Actual vs Predicted Plot**
 A scatter plot is created to compare actual vs predicted values.
 ![image alt](https://github.com/123manju900/Novartis--PS2/blob/22118b531a5010613ff6cc2d5892e75fe9b512e7/image/actual_vs_predicted.png)
 
