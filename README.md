@@ -167,8 +167,39 @@ A scatter plot is created to compare actual vs predicted values.
 
 ---
 
+## Conclusion and Strategic Insights
 
+Our team approached this challenge with a clear focus on addressing the complexities of the dataset while ensuring that our solutions were both technically sound and aligned with real-world applicability. The dataset presented significant challenges, including mixed data types (`Sex` as structured data and `study title` as unstructured text) and substantial missing values. Through careful experimentation and strategic decision-making, we developed a robust methodology that balances predictive accuracy, interpretability, and practical relevance.
 
+### Key Highlights of Our Approach:
+- **Data-Driven Decisions**: After observing a decline in model performance with imputation (e.g., an 18% increase in MAE), we leveraged XGBoost's native ability to handle missing values. This decision preserved the natural structure of the data while improving model robustness.
+  
+- **Integration of Mixed Data Types**: By utilizing XGBoost's flexibility, we seamlessly incorporated both structured and unstructured features, allowing the model to capture nuanced relationships critical to the problem domain.
+
+- **Rigorous Validation**: To ensure reliability, we employed nested cross-validation and monitored performance stability across folds. This provided confidence in the generalizability of our model.
+
+- **Actionable Insights**: Beyond predictive performance, we conducted SHAP value analysis to identify key drivers of outcomes, offering interpretable results that align with clinical decision-making needs.
+
+### Why This Matters:
+Our approach not only demonstrates technical excellence but also reflects a deep understanding of the problem's broader implications. By prioritizing interpretability alongside accuracy, we ensured that our solution is not just a model but a tool that can provide meaningful insights for Novartis' objectives. This balance between innovation and practical impact positions us as strong candidates for advancing to the finals.
+
+We are confident that our methodology showcases a thoughtful, impactful, and scalable solution to the case challenge.
+
+---
+## ** Final Thoughts 
+As we prepare for the finals, our focus will be on refining our solution, enhancing its impact, and delivering a compelling presentation that aligns with Novartis' objectives. Below is our forward-looking plan:
+
+### 1. **Enhancing Our Solution**
+- **Deep Dive into Insights**: We will further analyze key drivers of the model's predictions using advanced interpretability techniques (e.g., SHAP values) to provide actionable insights that align with Novartis' goals.
+- **Scenario Analysis**: Introduce scenario-based modeling to demonstrate how our solution performs under different conditions, ensuring robustness and scalability.
+- **Integration of Feedback**: Incorporate feedback from the semi-finals to address any gaps in our approach and strengthen its practical relevance.
+
+  ### 4. **Future Vision**
+In addition to presenting our current solution, we will outline a roadmap for implementation:
+- **Phased Deployment Plan**: Highlight how Novartis could implement our solution in stages, ensuring smooth adoption.
+- **Measurable Impact**: Define clear metrics (e.g., accuracy improvements, cost savings) to evaluate success during implementation.
+- **Scalability Potential**: Discuss how this approach could be adapted for broader applications within Novartis’ portfolio.
+ 
 
 
 
