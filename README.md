@@ -186,15 +186,14 @@ Our approach not only demonstrates technical excellence but also reflects a deep
 We are confident that our methodology showcases a thoughtful, impactful, and scalable solution to the case challenge.
 
 ---
-## ** Final Thoughts 
+## **Final Thoughts**
 As we prepare for the finals, our focus will be on refining our solution, enhancing its impact, and delivering a compelling presentation that aligns with Novartis' objectives. Below is our forward-looking plan:
 
-### 1. **Enhancing Our Solution**
+### **Enhancing Our Solution**
 - **Deep Dive into Insights**: We will further analyze key drivers of the model's predictions using advanced interpretability techniques (e.g., SHAP values) to provide actionable insights that align with Novartis' goals.
 - **Scenario Analysis**: Introduce scenario-based modeling to demonstrate how our solution performs under different conditions, ensuring robustness and scalability.
 - **Integration of Feedback**: Incorporate feedback from the semi-finals to address any gaps in our approach and strengthen its practical relevance.
 
-  ### 4. **Future Vision**
 In addition to presenting our current solution, we will outline a roadmap for implementation:
 - **Phased Deployment Plan**: Highlight how Novartis could implement our solution in stages, ensuring smooth adoption.
 - **Measurable Impact**: Define clear metrics (e.g., accuracy improvements, cost savings) to evaluate success during implementation.
